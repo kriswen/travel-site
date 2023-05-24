@@ -44,7 +44,7 @@
             grid-column: span 12;
         }
 
-        &__large- &__medium-4 {
+        &__medium-4 {
             grid-column: span 4;
         }
 
